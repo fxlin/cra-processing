@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******_The_Computing_Research_Association_******
+The CCC
+For Women
+For Faculty
+For Students
+    * About
+          o CRA's_Mission
+          o Bylaws
+          o Annual_Reports
+          o Board_of_Directors
+          o Executive_Officers
+          o CRA_Staff
+          o Current_Members
+          o Membership_Information
+          o Membership_Dues_Schedule
+          o Committees
+          o Projects
+    * Awards
+          o A._Nico_Habermann_Award
+          o Distinguished_Service_Award
+          o Outstanding_Undergraduate_Award
+          o Service_to_CRA_Award
+    * Resources
+          o Computing_Research_News
+          o Center_for_Evaluating_the_Research_Pipeline_(CERP)
+          o Taulbee_Survey
+          o Scholarly_Publications
+          o Reports_on_Research_Issues
+          o Workforce_Reports
+          o Related_Computing_Research_Societies
+    * Events
+    * Govt._Affairs
+          o Policy_Blog
+    * Jobs
+  [q                                                                     ]
+[Search]
+
+
+*** Home ***
+    * For_Students
+    * For_Faculty
+    * For_Women
+    * The_CCC
+*** About ***
+    * About
+          o Mission
+          o By_Laws
+    * Executive_Director
+    * Executive_Officers
+    * Board_Members
+    * Committees
+    * Staff
+    * Membership
+    * Projects
+*** Awards ***
+    * Nico_A._Habermann_Award
+    * Outstanding_Undergraduate_Award
+    * Distinguished_Service_Award
+    * Service_to_CRA_Award
+*** Resources ***
+    * CRN
+    * CRA_News
+    * Taulbey_Survey
+    * Best_Practices_Memo
+    * Workforce_and_History_Reports
+    * Labs_and_Centers_Profiles
+    * Links
+*** Events ***
+    * Conferences_and_Workshops
+    * CRA-Deans
+*** Government_Affairs ***
+    * Policy_Blog
+*** Jobs ***
+    * Place_An_Ad
+*** Report_Broken_Links ***
+    * BACK_TO_LISTINGS
+**** Postdoctoral Research Scholar ****
+This posting will expire on January 31, 2014.
+Organization/Institution: The University of Iowa
+Department: Computer Science Department
+Posted: November 04, 2013
+The UI Computer Science Mobile Systems Laboratory is starting a new project on
+mobile health applications, and has an opening for a Postdoctoral Research
+Scholar. The laboratory currently consists of three CS faculty (Octav Chipara,
+Alberto Segre, and Dan Reed) and five PhD students.  This new project will
+broadly focus on:
+
+ * New programming abstractions to facilitate the development of reliable,
+energy efficient and adaptive mobile health applications.
+
+ * Design and development of novel cloud-based data collection services to
+support mobile sensors.
+
+ * New data analysis techniques that provide for robust inference from noisy
+and heterogeneous sensor data streams.
+
+Applications are invited for a two-year postdoctoral position in the general
+area of mobile systems research starting in January, 2014.  The successful
+candidate will be expected to work independently on original research problems
+related to the project, to help coordinate the activities of the lab's PhD
+students, and to help supervise system deployments.
+
+Candidates must have a PhD in CS or a closely related discipline as well as
+expertise in designing, implementing, and empirically evaluating computer
+systems including embedded systems, wireless sensor networks, and/or cloud
+services. Expertise in compiler construction, machine learning, and conducting
+human-subject studies are a plus.
+ 
+*** Application Instructions ***
+For more information, please contact Dr. Chipara at octav-chipara@uiowa.edu. 
+To apply, go to http://jobs.uiowa.edu and access requisition #2047.  
+
+The University of Iowa is an equal opportunity/affirmative action employer and
+strongly encourages women and minorities to apply.
+
+ 
+ 
+[CRA Logo]COMPUTING RESEARCH ASSOCIATION
+1828 L STREET, NW SUITE 800, WASHINGTON, DC 20036
+P: 202-234-2111 | F: 202-667-1066 | E: INFO @ CRA . ORG
+    * PRESS_CONTACT
+    * REPORT_BROKEN_LINKS
+    * SITEMAP
+    * DISCLAIMER
+
+ [CRA-W_Logo] [CCC_Logo]
+
