@@ -1,0 +1,220 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******_The_Computing_Research_Association_******
+The CCC
+For Women
+For Faculty
+For Students
+    * About
+          o CRA's_Mission
+          o Bylaws
+          o Annual_Reports
+          o Board_of_Directors
+          o Executive_Officers
+          o CRA_Staff
+          o Current_Members
+          o Membership_Information
+          o Membership_Dues_Schedule
+          o Committees
+          o Projects
+    * Awards
+          o A._Nico_Habermann_Award
+          o Distinguished_Service_Award
+          o Outstanding_Undergraduate_Award
+          o Service_to_CRA_Award
+    * Resources
+          o Computing_Research_News
+          o Center_for_Evaluating_the_Research_Pipeline_(CERP)
+          o Taulbee_Survey
+          o Scholarly_Publications
+          o Reports_on_Research_Issues
+          o Workforce_Reports
+          o Related_Computing_Research_Societies
+    * Events
+    * Govt._Affairs
+          o Policy_Blog
+    * Jobs
+  [q                                                                     ]
+[Search]
+
+
+*** Home ***
+    * For_Students
+    * For_Faculty
+    * For_Women
+    * The_CCC
+*** About ***
+    * About
+          o Mission
+          o By_Laws
+    * Executive_Director
+    * Executive_Officers
+    * Board_Members
+    * Committees
+    * Staff
+    * Membership
+    * Projects
+*** Awards ***
+    * Nico_A._Habermann_Award
+    * Outstanding_Undergraduate_Award
+    * Distinguished_Service_Award
+    * Service_to_CRA_Award
+*** Resources ***
+    * CRN
+    * CRA_News
+    * Taulbey_Survey
+    * Best_Practices_Memo
+    * Workforce_and_History_Reports
+    * Labs_and_Centers_Profiles
+    * Links
+*** Events ***
+    * Conferences_and_Workshops
+    * CRA-Deans
+*** Government_Affairs ***
+    * Policy_Blog
+*** Jobs ***
+    * Place_An_Ad
+*** Report_Broken_Links ***
+    * BACK_TO_LISTINGS
+**** Multiple Faculty Positions ****
+This posting will expire on January 31, 2014.
+Organization/Institution: Texas A&M University
+Department: Department of Computer Science and Engineering
+Posted: November 19, 2013
+TheDepartment of Computer Science and Engineering of the Dwight Look College of
+Engineering at Texas A&amp;M University invites applicationsfor multiple
+faculty positions, including tenured or tenure-track positions, non-tenure
+track teaching-focused positions, and department head, starting fall 2014.
+Additionally, a number of multi-disciplinary centers and institutes are seeking
+faculty that may have interests aligned with computer science or computer
+engineering.
+In response to the national demand for more qualified engineers, the Look
+College has embarked on &ldquo;25 by 25,&rdquo; an ambitious enrollment growth
+initiative to more than double the college&rsquo;s current enrollment to 25,000
+engineering students by the year 2025. The Department of Computer Science and
+Engineering will be an integral part of this planned growth. The department
+currently has 36 tenured and tenure‐track faculty members and three full‐time
+lecturers. The department has faculty with a number of national distinctions,
+including National Academy of Engineering membership, ACM and IEEE Fellows, and
+ACM Distinguished Scientists and Engineers. The department has a strong and
+vibrant research program, with half the faculty receiving NSF CAREER/NYI/PYI
+awards. More information about the department is available at http://
+www.cse.tamu.edu.
+ 
+*** Application Instructions ***
+Open Rank Position in Computer Science or Engineering. The department invites
+applications for an assistant, associate or full professor in the areas of (1)
+big data, including large-scale data management/analytics and information
+visualization, (2) natural language processing, and (3) software, including
+programming languages and software engineering. Exceptional candidates in other
+areas are also welcome to apply.
+Senior Faculty Position in Computational Science: In recognition of the
+increasing importance of computational sciences, the University has identified
+this area as a target for growth. As part of an expansion in this area, the
+Department of Computer Science and Engineering is recruiting for a full
+professor in computational science. This position will have freedom to define a
+research agenda both by making use of the considerable available startup and by
+leveraging the significant existing resources at the Institute for Applied
+Mathematics and Computational Science (http://iamcs.tamu.edu).
+Teaching-focused Positions. The department invites applications for lecturers,
+senior lecturers, instructional professors, including assistant and associate
+ranks, and associate and full professors of engineering practice. These
+positions are primarily focused on teaching. Instructional professors have an
+expectation of scholarly activity in engineering education. Professors of
+engineering practice are typically individuals who have extensive experience in
+the workplace that they can bring to the classroom.
+Application_Process
+Candidates for the above assistant, associate or full professor positions must
+have a Ph.D. in computer science, computer engineering, or related field and
+will be expected to teach, perform research, and supervise graduate students.
+Candidates for the lecturer or instructional professor track positions should
+also have a Ph.D. in computer science, computer engineering or a related field,
+while candidates for the professor of engineering practice track positions are
+expected to have at least a bachelors degree and extensive experience in the
+field. For questions about the positions, contact: search@cse.tamu.edu.
+Applications should include a curriculum vitae, statement of teaching and
+research interests, and at least three references and should be submitted
+online at http://apply2.cse.tamu.edu/.
+Department Head. Nominations and applications are invited for the position of
+head of the Department of Computer Science and Engineering. We seek a dynamic,
+innovative candidate who can lead the growth in students, faculty, and staff
+that is envisioned. We are looking for an innovative thinker with a strategic
+vision for guiding the department to a higher level of excellence that can
+communicate this vision to a constituency that includes academia, government,
+industry, and alumni. Candidates should possess proven leadership and
+administrative skills, and an established reputation as a scholar consistent
+with an appointment to the rank of professor of computer science and
+engineering with tenure. Candidates must have a Ph.D. in computer science,
+computer engineering, or a related field. Nominations or applications should be
+sent to headsearch@cse.tamu.edu; applications should include a full curriculum
+vitae, a two-page statement summarizing the candidate&rsquo;s vision and goals
+for the department and leadership philosophy, and the names and addresses of at
+least five references.
+Additional Multi-Disciplinary Positions
+The recently established Center for Remote Health Care Technology (CRHCT)
+invite applications for multidisciplinary tenured/tenure track faculty at the
+assistant, associate and full professor ranks in the area of remote health,
+including next-generation remote medical information systems and innovative
+engineering of remote medical devices. Applications should include a curriculum
+vitae and a list of three references and be submitted to
+centerfacultysearch@tamu.edu.
+The interdisciplinaryInstitute for Digital Humanities, Media, and Culture
+(IDHMC)is inviting applications for an assistant, associate or full professor
+with an established record in digital humanities research and/or humanities,
+artistic, or information visualization. Potential research specializations
+include digital humanities within a humanities discipline; computational
+linguistics and corpus linguistics; data-mining and/or natural language
+processing; artistic, information, and scientific visualization; library,
+archival, and information science; media studies and communication; physical
+computing/tangible computing; and human-computer interaction. Applications
+should include a letter of interest, current curriculum vitae, and list of
+references an should be submitted to idhmc@tamu.edu.
+Texas A&amp;M University is an Affirmative Action/Equal Opportunity Employer.
+The university is dedicated to the goal of building a culturally diverse and
+pluralistic faculty and staff committed to teaching and working in a
+multicultural environment, and strongly encourages applications from women,
+minorities, individuals with disabilities, and covered veterans. Applications
+are welcome from dual career couples.
+ 
+ 
+[CRA Logo]COMPUTING RESEARCH ASSOCIATION
+1828 L STREET, NW SUITE 800, WASHINGTON, DC 20036
+P: 202-234-2111 | F: 202-667-1066 | E: INFO @ CRA . ORG
+    * PRESS_CONTACT
+    * REPORT_BROKEN_LINKS
+    * SITEMAP
+    * DISCLAIMER
+
+ [CRA-W_Logo] [CCC_Logo]
+

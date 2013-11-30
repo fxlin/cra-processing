@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+******_The_Computing_Research_Association_******
+The CCC
+For Women
+For Faculty
+For Students
+    * About
+          o CRA's_Mission
+          o Bylaws
+          o Annual_Reports
+          o Board_of_Directors
+          o Executive_Officers
+          o CRA_Staff
+          o Current_Members
+          o Membership_Information
+          o Membership_Dues_Schedule
+          o Committees
+          o Projects
+    * Awards
+          o A._Nico_Habermann_Award
+          o Distinguished_Service_Award
+          o Outstanding_Undergraduate_Award
+          o Service_to_CRA_Award
+    * Resources
+          o Computing_Research_News
+          o Center_for_Evaluating_the_Research_Pipeline_(CERP)
+          o Taulbee_Survey
+          o Scholarly_Publications
+          o Reports_on_Research_Issues
+          o Workforce_Reports
+          o Related_Computing_Research_Societies
+    * Events
+    * Govt._Affairs
+          o Policy_Blog
+    * Jobs
+  [q                                                                     ]
+[Search]
+
+
+*** Home ***
+    * For_Students
+    * For_Faculty
+    * For_Women
+    * The_CCC
+*** About ***
+    * About
+          o Mission
+          o By_Laws
+    * Executive_Director
+    * Executive_Officers
+    * Board_Members
+    * Committees
+    * Staff
+    * Membership
+    * Projects
+*** Awards ***
+    * Nico_A._Habermann_Award
+    * Outstanding_Undergraduate_Award
+    * Distinguished_Service_Award
+    * Service_to_CRA_Award
+*** Resources ***
+    * CRN
+    * CRA_News
+    * Taulbey_Survey
+    * Best_Practices_Memo
+    * Workforce_and_History_Reports
+    * Labs_and_Centers_Profiles
+    * Links
+*** Events ***
+    * Conferences_and_Workshops
+    * CRA-Deans
+*** Government_Affairs ***
+    * Policy_Blog
+*** Jobs ***
+    * Place_An_Ad
+*** Report_Broken_Links ***
+    * BACK_TO_LISTINGS
+**** Faculty Positions Available in the Department of Computer Science ****
+This posting will expire on December 31, 2013.
+Organization/Institution: Virginia Tech
+Department: The Department of Computer Science
+Posted: October 03, 2013
+The Department of Computer Science at Virginia Tech (www.cs.vt.edu) seeks
+applicants for tenure-track junior faculty positions in four areas: machine
+learning, algorithms, human-computer interaction, and software engineering/
+programming languages. Candidates should have a PhD in Computer Science or
+related field at the time of appointment, a record of scholarship and
+collaboration in computing and interdisciplinary areas, demonstrated ability to
+contribute to teaching at the undergraduate and graduate levels, the skills to
+establish and grow a successful research group, and sensitivity to issues of
+diversity in the campus community. Selected candidates are expected to travel
+occasionally to attend professional conferences/meetings.
+
+Assistant Professor in Machine Learning: Full-time tenure-track position, at
+the rank of Assistant Professor, for outstanding candidates with expertise in
+machine learning and an interest in tackling real problems in the context of
+multidisciplinary collaborations in the Discovery Analytics Center
+(dac.cs.vt.edu). There also are rich opportunities in a highly collaborative
+department with strengths in HCI, high performance and scientific computing,
+computational biology and bioinformatics, information retrieval, software
+engineering, CyberArts, and CS education. Research on security and personal
+health informatics is possible in collaboration with the VT-Carilion Research
+Institute associated with the VT-Carilion School of Medicine. See
+www.cs.vt.edu/FacultySearch for additional information on how to apply online.
+Inquiries should be directed to Dr. Adrian Sandu, Search Committee Chair,
+sandu@cs.vt.edu.
+
+Assistant Professor in Algorithms:  Full-time tenure-track position, at the
+rank of Assistant Professor, for outstanding candidates in theoretical computer
+science, specifically with research focus in discrete algorithms. It is
+desirable that the candidate have the ability to develop synergistic
+collaborations with established research areas such as computational biology
+and bioinformatics, cyber security, and data mining. See www.cs.vt.edu/
+FacultySearch for additional information on how to apply online. Inquiries
+should be directed to Dr. Lenny Heath, Search Committee Chair, heath@vt.edu.
+
+Assistant Professor in Human-Computer Interaction: Full-time tenure-track
+position, at the rank of Assistant Professor, for outstanding candidates with
+expertise in HCI.  The department is especially interested in candidates in
+sub-areas of HCI involving human interaction with big data or advanced
+technologies, such as large-scale data visualization and/or human-robot
+interaction. Nevertheless, candidates from all areas of HCI are encouraged to
+apply. Candidates will have opportunities for collaboration in the
+interdisciplinary Center for Human-Computer Interaction (hci.vt.edu), a
+university-wide effort that brings together faculty with strengths in multi-
+sensory interactive communication, ecologies of displays and devices, social/
+collaborative computing, and human aspects of data/information/ knowledge. See
+www.cs.vt.edu/FacultySearch for additional information on how to apply online.
+Inquiries should be directed to Dr. Doug Bowman, Search Committee Chair,
+bowman@vt.edu.
+
+Assistant Professor in Software Engineering/Programming Languages: Full-time
+tenure-track position, at the rank of Assistant Professor, for outstanding
+candidates with research breadth across several areas of software engineering
+and/or programming languages (e.g., mobile applications, Web-based software,
+testing, program analysis, domain specific languages, dynamic languages). See
+www.cs.vt.edu/FacultySearch for additional information on how to apply online.
+Inquiries should be directed to Dr. Cal Ribbens, Search Committee Chair,
+ribbens@vt.edu.
+
+The Department of Computer Science has 36 research oriented tenure-track
+faculty and 11 research faculty. There are a total 12 NSF/DOE CAREER awards in
+the department. Research expenditures during FY2013 were $11.7 million; total
+research funding at the beginning of FY2014 was $34 million. BS, MS, and PhD
+degrees are offered, with an enrollment of over 550 undergraduate majors (12%
+women) and over 200 PhD/MS students. In 2010, CS@VT was ranked 5th in the
+country in recruiting quality of CS undergrads by the Wall Street Journal. The
+department is in the College of Engineering, whose undergraduate program was
+ranked 6th and graduate program was ranked 12th among public engineering
+schools in 2013 by U.S. News &amp; World Report.
+
+Applicant screening will begin on December 15, 2013 and continue until each
+position is filled.  We welcome applications from women or minorities.  Salary
+for suitably qualified applicants is competitive and commensurate with
+experience. Selected candidates must pass a criminal background check prior to
+employment.
+
+Virginia Tech is an equal opportunity/affirmative action institution.
+
+ 
+*** Application Instructions ***
+ 
+[CRA Logo]COMPUTING RESEARCH ASSOCIATION
+1828 L STREET, NW SUITE 800, WASHINGTON, DC 20036
+P: 202-234-2111 | F: 202-667-1066 | E: INFO @ CRA . ORG
+    * PRESS_CONTACT
+    * REPORT_BROKEN_LINKS
+    * SITEMAP
+    * DISCLAIMER
+
+ [CRA-W_Logo] [CCC_Logo]
+
