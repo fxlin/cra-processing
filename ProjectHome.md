@@ -1,0 +1,1 @@
+run simple statistics on cra job posting
